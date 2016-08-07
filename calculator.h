@@ -39,7 +39,7 @@ private:
     double sumSoFar;
     double factorSoFar;
     QString pendingAdditiveOperator;
-    QString peningMultiplicativeOperator;
+    QString pendingMultiplicativeOperator;
     bool waitingForOperand;
 
     QLineEdit *display;
